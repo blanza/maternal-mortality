@@ -1,6 +1,6 @@
-# Obtendo dados do SINASC
-# Author: Rafaella Carnevali
-# Build under R version 4.0.3
+# Obtendo dados de nascimentos - SINASC - Datasus 
+# Author: Rafaella Carnevali - Projeto Mortalidade Materna 
+# Build under R version 4.0.3 - checar a versão
 options(scipen = 9999)
 
 library(tidyverse)
