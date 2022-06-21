@@ -1,4 +1,4 @@
-# Estimacao da RMM e TFTs para Brasil e UFs 2010-2018
+# Estimacao da RMM e TFTs para Brasil e UFs 2010-2018 a partir das estimativas gerais de fecundidade e mortalidade
 # Author: Rafaella Carnevali
 # Build under R version 4.1.0
 
