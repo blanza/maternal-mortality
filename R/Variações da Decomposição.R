@@ -1,5 +1,6 @@
 ## Testando Novas Variacoes da Decomposicao
 # Author: Rafaella Carnevali
+# Paper da PAA - testes e comparações
 # Build under R version 4.1.0
 
 options(scipen = 9999)
