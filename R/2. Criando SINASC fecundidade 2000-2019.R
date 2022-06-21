@@ -1,5 +1,5 @@
-# Criando as bases de fecundidade Sinasc 2000-2019
-  # Fonte: Nascimentos Sinasc & Mulheres DataSUS (2000-2009) e Projeções IBGE (2010-2019) 
+# Criando as bases de fecundidade Sinasc 2000-2019 - não usamos 2020 por causa da pandemia - poderia ter afetado os nascimentos
+  # Fonte: Nascimentos Sinasc & Mulheres DataSUS (2000-2009) e Projeções Populacionais do  IBGE (2010-2019) -
 # Author: Rafaella Carnevali
 # Build under R version 4.1.0
 
