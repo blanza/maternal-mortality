@@ -1,4 +1,4 @@
-# Censo e Sinasc
+# Censo e Sinasc - comparando os nascimentos nos últimos 12 meses
 # Author: Rafaella Carnevali
 # Build under R version 4.1.0
 options(scipen = 9999)
