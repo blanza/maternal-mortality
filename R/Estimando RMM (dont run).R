@@ -1,4 +1,4 @@
-# Estimacao da RMM e TFTs para Brasil e UFs 2010-2018
+# Estimacao da RMM e TFTs para Brasil e UFs 2010-2018 - não precisa rodar !!!!
 
 ## ATENÇÃO!!! 
   ## Este script foi desenvolvido ANTES da decisão de se usar somente as estimativas do SINASC. 
