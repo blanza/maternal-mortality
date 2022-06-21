@@ -1,5 +1,6 @@
 ### Decomposição da MMR ###
 # Author: Rafaella Carnevali
+# Paper apresentado na PAA de 2022
 # Build under R version 4.1.0
 
 options(scipen = 9999)
