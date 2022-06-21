@@ -1,4 +1,4 @@
-
+#As funções 
 Decomp.MMR <- function (data, ano1, meioperiodo, ano2, siglaUF, ajuste = T) {
   
   if (ajuste) { 
