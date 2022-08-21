@@ -1,7 +1,6 @@
 rm(list=ls())
 
-setwd('C:/Users/ricar/OneDrive - ufmg.br/Mort Materna/package_LCBayes/R')
-# tex_path = 'C:/Users/ricar/OneDrive - ufmg.br/Mort Materna/package_LCBayes/tex/'
+
 
 
 ### packages ###########################################################################
